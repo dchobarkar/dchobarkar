@@ -16,7 +16,7 @@ Hi, I'm Darshan Chobarkar, a passionate self-taught Full Stack web developer and
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/dchobarkar/dchobarkar/blob/master/DarshanCoding.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="Darshan Coding" src="https://github.com/dchobarkar/dchobarkar/blob/main/DarshanCoding.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08);
