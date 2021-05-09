@@ -20,8 +20,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br />
   <br />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08)
 
 ## 🔨 Languages and Tools:
 
