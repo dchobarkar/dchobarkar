@@ -4,7 +4,7 @@
   <img align="left" alt="Darshan Chobarkar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="www.linkedin.com/in/dchobarkar">
+<a href="https://www.linkedin.com/in/dchobarkar/">
   <img align="left" alt="Darshan Chobarkar | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
