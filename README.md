@@ -20,37 +20,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br />
   
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08)
+  <br />
 - 📫 How to reach me: [@dchobarkar](https://www.linkedin.com/in/dchobarkar/)
+- 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08)
 
 ## 🔨 Languages and Tools:
 
-<a href="https://www.javascript.com/" target="_blank"> 
-  <img align="left" alt="Javascript" height="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/javascript.png" /> 
-</a>
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="left" alt="Node" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/node.png" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img align="left" alt="TypeScript" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/typescript.png" /> 
 </a>
+<a href="https://www.javascript.com/" target="_blank"> 
+  <img align="left" alt="Javascript" height="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/javascript.png" /> 
+</a>
 <a href="https://reactjs.org/" target="_blank">
   <img align="left" alt="ReactJs" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/react.png" />
-</a>
-<a href="https://redux.js.org/" target="_blank">
-  <img align="left" alt="Redux" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/redux.png" />
-</a>
-<a href="https://vuejs.org/" target="_blank"> 
-  <img align="left" alt="VueJs" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/vue.png" /> 
-</a>
-<a href="https://angular.io/" target="_blank"> 
-  <img align="left" alt="Angular" height ="42px"  src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/angular.png" /> 
-</a>
-<a href="https://material-ui.com/" target="_blank">
-  <img align="left" alt="Material-ui" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/material-ui.png" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank"> 
-  <img align="left" alt="Bootstrap" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/bootstrap.png" />
 </a>
 <a href="https://html.com/" target="_blank">
   <img align="left" alt="HTML" height ="42px" src="https://github.com/dchobarkar/dchobarkar/blob/main/assets/html.png" />
