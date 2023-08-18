@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/barbatos__08">
-  <img align="left" alt="Darshan Chobarkar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/dchobarkar/">
   <img align="left" alt="Darshan Chobarkar | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/barbatos__08">
+  <img align="left" alt="Darshan Chobarkar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dchobarkar.dchobarkar)
@@ -22,6 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08)
+- 📫 How to reach me: [@dchobarkar](https://www.linkedin.com/in/dchobarkar/)
 
 ## 🔨 Languages and Tools:
 
