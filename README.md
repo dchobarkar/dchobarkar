@@ -52,8 +52,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 📈 My GitHub Stats
 
 [![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchobarkar&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchobarkar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dchobarkar&repo=Smart_India_Hackathon_2019_Paytm&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchobarkar&layout=compact&theme=dark)](https://github.com/dchobarkar/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dchobarkar&theme=highcontrast)](https://git.io/streak-stats)
 
 <br>
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
