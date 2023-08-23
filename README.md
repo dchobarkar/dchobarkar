@@ -23,6 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br />
 - 📫 How to reach me: [@dchobarkar](https://www.linkedin.com/in/dchobarkar/)
 - 📫 How to reach me: [@barbatos__08](https://twitter.com/barbatos__08)
+- 📫 How to reach me: [@upwork](https://www.upwork.com/freelancers/~01b8baac4280f61338)
 
 ## 🔨 Languages and Tools:
 
