@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 <a href="https://www.linkedin.com/in/dchobarkar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -6,37 +6,53 @@
 
 <img src="https://komarev.com/ghpvc/?username=dchobarkar&style=flat-square&color=blue" alt="Profile views"/>
 
-<br />
+---
 
-Hi, I'm Darshan Chobarkar, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### 👨‍💻 About Me
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm **Darshan Chobarkar**, a self-taught full-stack web developer based in India with 6+ years of hands-on experience building modern web apps.
 
-<img align="right" alt="Darshan Coding" src="https://github.com/dchobarkar/dchobarkar/blob/main/DarshanCoding.gif?raw=true" width="500" height="320" />
+I’ve worked across startups and freelance projects, crafting everything from internal tools to customer-facing platforms. My core stack includes **React**, **Next.js**, **TypeScript**, **Node.js**, **NestJS**, and **PostgreSQL** — with a strong focus on performance, clean architecture, and user experience.
 
-<br />
+I'm currently expanding my skills into **AI integration**, exploring how modern AI tools can enhance productivity and product capabilities. I treat this GitHub profile as a living portfolio of my code, experiments, and ideas.
 
-<br />
+<p align="center">
+  <img src="https://github.com/dchobarkar/dchobarkar/blob/main/DarshanCoding.gif?raw=true" width="500" />
+</p>
 
-- 💬 Ask me about anything, I am happy to help
+---
 
-  <br />
+### 🛠️ Tech Stack
 
-- 📫 How to reach me: [@dchobarkar](https://www.linkedin.com/in/dchobarkar/)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
+</p>
 
-- 📫 How to reach me: [darshanwebdev](https://darshanwebdev.com/)
+---
 
-<br />
+### 📈 GitHub Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dchobarkar&count_private=true&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchobarkar&layout=compact&theme=dark" height="150" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dchobarkar&theme=highcontrast" height="150" />
+</p>
 
-## 📈 My GitHub Stats
+---
 
-[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchobarkar&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchobarkar&layout=compact&theme=dark)](https://github.com/dchobarkar/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dchobarkar&theme=highcontrast)](https://git.io/streak-stats)
+### 📫 Connect With Me
 
-<br>
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+<p align="center">
+  <a href="https://www.linkedin.com/in/dchobarkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
