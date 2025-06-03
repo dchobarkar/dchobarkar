@@ -1,24 +1,26 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-<a href="https://www.linkedin.com/in/dchobarkar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dchobarkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=dchobarkar&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dchobarkar&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Darshan Chobarkar**, a self-taught full-stack web developer based in India with 6+ years of hands-on experience building modern web apps.
+<p align="center">
+  <img src="https://github.com/dchobarkar/dchobarkar/blob/main/DarshanCoding.gif?raw=true" width="300" align="right" style="margin-left: 20px;" />
+</p>
+
+Hi, I'm **Darshan Chobarkar** — a self-taught full-stack web developer based in India with 6+ years of hands-on experience building modern web apps.
 
 I’ve worked across startups and freelance projects, crafting everything from internal tools to customer-facing platforms. My core stack includes **React**, **Next.js**, **TypeScript**, **Node.js**, **NestJS**, and **PostgreSQL** — with a strong focus on performance, clean architecture, and user experience.
 
 I'm currently expanding my skills into **AI integration**, exploring how modern AI tools can enhance productivity and product capabilities. I treat this GitHub profile as a living portfolio of my code, experiments, and ideas.
-
-<p align="center">
-  <img src="https://github.com/dchobarkar/dchobarkar/blob/main/DarshanCoding.gif?raw=true" width="500" />
-</p>
 
 ---
 
@@ -45,14 +47,4 @@ I'm currently expanding my skills into **AI integration**, exploring how modern 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dchobarkar&theme=highcontrast" height="150" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dchobarkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
